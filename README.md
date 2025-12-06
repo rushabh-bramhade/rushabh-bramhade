@@ -1,6 +1,9 @@
+![Project Banner](https://github.com/rushabh-bramhade/rushabh-bramhade/blob/7c389ac2aaee5eb996de46c41fc09c0d9caaee3f/525c648c-3771-4ccc-91fa-4476a5f2943c_removalai_preview.png)
+<br>
+<hr>
 ## Hi there 👋
 
-![Project Banner](https://github.com/rushabh-bramhade/rushabh-bramhade/blob/368ea8915376a0b922154690ccc7328cf0a7291e/download%20(2).jpg)
+
 <!--
 **rushabh-bramhade/rushabh-bramhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
