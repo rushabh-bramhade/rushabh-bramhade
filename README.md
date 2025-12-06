@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://github.com/rushabh-bramhade/rushabh-bramhade/blob/7c389ac2aaee5eb996de46c41fc09c0d9caaee3f/525c648c-3771-4ccc-91fa-4476a5f2943c_removalai_preview.png" width="800">
 </p>
-<br>
 <hr>
-## Hi there 👋
+<h1>H E L L O !</h1>
 
 
 <!--
