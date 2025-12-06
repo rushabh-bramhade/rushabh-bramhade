@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Project Banner](download (2).jpg)
+![Project Banner](https://github.com/rushabh-bramhade/rushabh-bramhade/blob/368ea8915376a0b922154690ccc7328cf0a7291e/download%20(2).jpg)
 <!--
 **rushabh-bramhade/rushabh-bramhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
