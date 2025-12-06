@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![image alt](download (2).jfif)
+![image alt](download (2).jpg)
 <!--
 **rushabh-bramhade/rushabh-bramhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
