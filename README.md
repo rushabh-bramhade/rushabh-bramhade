@@ -1,5 +1,5 @@
 <h1>Hey there! 👋</h1>
-────────────────────────
+──────────────────────── 
 
 I’m **Rushabh Bramhade**  
 *Generative AI Builder • Aspiring AI Engineer*
